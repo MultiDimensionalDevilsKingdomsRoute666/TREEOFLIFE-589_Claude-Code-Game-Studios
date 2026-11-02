@@ -438,3 +438,5 @@ Sponsorships help fund time spent maintaining skills, adding new agents, keeping
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
+Tended by the JESUSBURNING House of 589's: Scroll Scribe (docs) and Garden Keeper.
